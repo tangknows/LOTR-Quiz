@@ -1,0 +1,30 @@
+html{
+	font-family:comic sans ms;
+}
+.main {
+	width:1000px;
+	height:1000px;
+	margin:50px auto;
+	
+	min-width:1000px;
+	max-width:1000px;
+
+	border:1px solid;
+}
+
+
+#questionContainer1 {
+	border: 1px solid;
+	
+	height:500px;
+	width: 400px;
+	
+	margin: 0px auto;
+	text-align:center;
+
+}
+
+ul {
+	
+	list-style-type:none;
+}
